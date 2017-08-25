@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TextArea?>
+
+<Tab fx:id="tab" text="Untitled Tab" fx:controller="pl.sdacademy.EditController" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+   <content>
+      <TextArea fx:id="editTextArea" prefHeight="200.0" prefWidth="200.0" />
+   </content>
+</Tab>
